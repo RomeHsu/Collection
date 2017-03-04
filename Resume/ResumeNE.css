@@ -118,8 +118,6 @@
 	}
 	
 	div.exp_edu{
-
-		background-color: gray;
 		margin: 0 auto;
 	}
 	
@@ -142,12 +140,16 @@
 		float: right;
 		margin: 5px 0;
 	}
+	p{
+		text-indent: 40px;
+	}
+	
 	div.project_intro{
 		font-size: 110%;
 		width: 48%;
 		float: right;
-		background-color: #555;
 	}
+	
 	
 	div.project_intro ol{
 		font-size: 120%;
@@ -156,17 +158,16 @@
 	}
 	
 	img.sms_img{
-		height: 200px;
-		width: 48%;
+		height: 350px;
+		width: 300px;
 		float: left;
-		margin: auto 0;
+		
 	}
 	
 	div.sms_intro{
 		font-size: 120%;
 		width: 48%;
 		float: left;
-		background-color: #555;
 	}
 	
 	div.biology{
@@ -176,12 +177,43 @@
 	
 	div.bio_intro{
 		height: 20%;
+		
 
 		font-size: 120%;
 		background-color: #555;
 		border-radius: 5%;
 
 	}
+	
+	
+	div.expect {
+		height: 500px;
+		width: 90%;
+		font-size: 120%;
+		margin: 0 auto;
+	}
+	div.expect_job{
+		float: left;
+	
+	}
+	
+	div.fee{
+		width: 30%;
+		float: left;
+		margin: 10px auto;
+	}
+	
+	div.bee{
+		width: 30%;
+		float: left;
+		margin: 10px auto;
+	}
+	div.mobile_app{
+		width: 30%;
+		float: left;
+		margin: 10px auto;
+	}
+
 	
 	
 	.contact_me{
@@ -203,6 +235,7 @@
 		margin-right: 100px;
 	}
 	
+	
 	h3.contact_me_h3{
 		color: black;
 	}	
@@ -223,6 +256,9 @@
 		width: 100px;
 	}
 
+	div.footer{
+		height: 700px;
+	}
 
 
 
